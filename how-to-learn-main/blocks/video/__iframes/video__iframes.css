@@ -1,0 +1,8 @@
+.video__iframes {
+  display: flex;
+  justify-content: center;
+  position: relative;
+  z-index: 1;
+  top: 50px;
+  margin: 0 auto;
+}
